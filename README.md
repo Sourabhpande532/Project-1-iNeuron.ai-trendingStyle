@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 1 [Live Link]()
+## Project 1 [Go Live](https://trending-style-ineuron-ai.netlify.app/)
 
 ![](./assets/1.png)
 
